@@ -1,0 +1,67 @@
+{
+  "publisher": "sergiohideki",
+  "icon": "logo.png",
+  "galleryBanner": {
+    "color": "#030518",
+    "theme": "dark"
+  },
+  "keywords": [
+    "flutter",
+    "typescript",
+    "css",
+    "angular"
+  ],
+  "repository": {
+    "url": "https://github.com/sergiohidekiono/sergiohideki-pack"
+  },
+  "homepage": "https://github.com/sergiohidekiono/sergiohideki-pack",
+  "bugs": {
+    "url": "https://github.com/sergiohidekiono/sergiohideki-pack/issues"
+  },
+  "name": "sergiohideki-pack",
+  "displayName": "sergiohideki-pack",
+  "description": "Variety of pack",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.52.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "gornivv.vscode-flutter-files",
+    "Mikael.Angular-BeastCode",
+    "johnpapa.Angular2",
+    "msjsdiag.debugger-for-chrome",
+    "johnpapa.vscode-peacock",
+    "oliversturm.fix-json",
+    "esbenp.prettier-vscode",
+    "pkief.material-icon-theme",
+    "angular.ng-template",
+    "steoates.autoimport",
+    "formulahendry.auto-close-tag",
+    "simontest.simontest",
+    "christian-kohler.path-intellisense",
+    "rbbit.typescript-hero",
+    "cyrilletuzi.angular-schematics",
+    "alexiv.vscode-angular2-files",
+    "coenraads.bracket-pair-colorizer-2",
+    "obenjiro.arrr",
+    "quicktype.quicktype",
+    "stringham.move-ts",
+    "ms-vscode.vscode-typescript-tslint-plugin",
+    "gulajavaministudio.complete-flutter-extension-pack",
+    "karigari.chat",
+    "naumovs.color-highlight",
+    "aeschli.vscode-css-formatter",
+    "bendixma.dart-data-class-generator",
+    "flutterando.flutter-mobx",
+    "equinusocio.vsc-material-theme",
+    "tristanremy.mirage",
+    "zhucy.project-tree",
+    "plibither8.remove-comments",
+    "gruntfuggly.todo-tree",
+    "wakatime.vscode-wakatime",
+    "redhat.vscode-yaml"
+  ]
+}
